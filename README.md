@@ -1,6 +1,6 @@
-## Eae, beleza? Eu sou o Henrique Silva! 
+## Eae, beleza? Eu sou o Henrique Feitoza! 
 
-- 🔭 Hoje trabalho como Analista de Serviços na Softplan...
+- 🔭 Hoje trabalho como Consultor de Produto na Softplan...
 - 🚀 Estudando Javascript com foco em ReactJs
 
 <div align="center">
